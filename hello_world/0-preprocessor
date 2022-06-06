@@ -1,3 +1,2 @@
 #!/bin/bash
-# GCC PreProcessor
 gcc -E $CFILE -o c
