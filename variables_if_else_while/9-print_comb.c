@@ -14,7 +14,10 @@ int main(void)
 	for (i = 48; i <= 57; i++)
 {
 	putchar(i);
+	if (i <= 56)
+{
 	putchar(j);
+}
 	putchar(k);
 }
 	putchar('\n');
