@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
-* main - Main function for print digit number of base 10 start from 0 without variable of type char
+* main - Main function for print digit number of base 10 start from 0
 * Return: 0
 */
 
