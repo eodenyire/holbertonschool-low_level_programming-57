@@ -17,8 +17,8 @@ int main(void)
 	if (i <= 56)
 {
 	putchar(j);
-}
 	putchar(k);
+}
 }
 	putchar('\n');
 	return (0);
