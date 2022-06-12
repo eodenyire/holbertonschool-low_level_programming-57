@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
 * main - Main function for display message 
@@ -7,6 +7,7 @@
 
 int main(void)
 {
-	printf ("_putchar\n");
+	char e[4] = "abcd"
+	_putchar(e);
         return (0);
 }
